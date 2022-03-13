@@ -1,2 +1,2 @@
 # DataAnalystJobRecommendationSystem
-This is my attempt to build a Recommendation System that takes Resumes and Ranks the input based on the Job Description
+This project builds a Data Analyst Recommendation system. The data was pulled by web scrapping resumes and mostly online surveys, the next step was cleaning and manipulating data with microsoft excel. Afterwards, features were extracted from documents (Tokinization, parsing, features extraction) and a classification model was created using (SVM, k-NN & Naive Bayes) and Cosine similarity to rank resumes based on Job description.
